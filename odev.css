@@ -1,0 +1,33 @@
+body{
+    background-color: lightskyblue;
+}
+
+h1{
+    color: yellow;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    list-style-position: inside;
+}
+h3{
+    color: midnightblue;
+    font-size: 17px;
+    font-style: italic;
+}
+h2{
+    color: darkorchid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+p{
+    color: mediumslateblue; 
+    font-size: 19px;
+}
+a{
+    color: mediumslateblue;
+ }
+ ul{
+    color: red;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
